@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DesignPatternExample\\DesignPatternExample\\DesignPatternExample.csproj": {}
+    "D:\\Code\\design-pattern-example\\DesignPatternExample\\DesignPatternExample\\DesignPatternExample.csproj": {}
   },
   "projects": {
-    "D:\\DesignPatternExample\\DesignPatternExample\\DesignPatternExample.csproj": {
+    "D:\\Code\\design-pattern-example\\DesignPatternExample\\DesignPatternExample\\DesignPatternExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DesignPatternExample\\DesignPatternExample\\DesignPatternExample.csproj",
+        "projectUniqueName": "D:\\Code\\design-pattern-example\\DesignPatternExample\\DesignPatternExample\\DesignPatternExample.csproj",
         "projectName": "DesignPatternExample",
-        "projectPath": "D:\\DesignPatternExample\\DesignPatternExample\\DesignPatternExample.csproj",
-        "packagesPath": "C:\\Users\\arifuzzaman\\.nuget\\packages\\",
-        "outputPath": "D:\\DesignPatternExample\\DesignPatternExample\\obj\\",
+        "projectPath": "D:\\Code\\design-pattern-example\\DesignPatternExample\\DesignPatternExample\\DesignPatternExample.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\design-pattern-example\\DesignPatternExample\\DesignPatternExample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\arifuzzaman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {}
           }
         },
@@ -37,30 +37,25 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[5.0.14, 5.0.14]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
